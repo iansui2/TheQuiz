@@ -14,7 +14,7 @@ namespace TheQuiz.Logic
             Console.WriteLine("Science Quiz\n These are the questions:\n");
             Console.WriteLine("1. What is the shape of the Earth?");
             firstsciencequestion = Console.ReadLine();
-            if (firstsciencequestion == "Sphere")
+            if (firstsciencequestion.ToUpper() == "SPHERE")
             {
                 Console.WriteLine("You are Correct!");
             }
@@ -25,7 +25,7 @@ namespace TheQuiz.Logic
             string secondsciencequestion;
             Console.WriteLine("2. What is the third planet in the Solar System?");
             secondsciencequestion = Console.ReadLine();
-            if (secondsciencequestion == "Earth")
+            if (secondsciencequestion.ToUpper() == "EARTH")
             {
                 Console.WriteLine("You are Correct!");
             }
@@ -36,7 +36,7 @@ namespace TheQuiz.Logic
             string thirdsciencequestion;
             Console.WriteLine("3. What is the biggest planet in the Solar System?");
             thirdsciencequestion = Console.ReadLine();
-            if (thirdsciencequestion == "Jupiter")
+            if (thirdsciencequestion.ToUpper() == "JUPITER")
             {
                 Console.WriteLine("You are Correct!");
             }

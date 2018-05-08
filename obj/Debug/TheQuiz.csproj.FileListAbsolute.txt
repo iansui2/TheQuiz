@@ -1,0 +1,7 @@
+C:\Users\Ian Sui\source\repos\C#\TheQuiz\TheQuiz\bin\Debug\TheQuiz.exe.config
+C:\Users\Ian Sui\source\repos\C#\TheQuiz\TheQuiz\bin\Debug\TheQuiz.exe
+C:\Users\Ian Sui\source\repos\C#\TheQuiz\TheQuiz\bin\Debug\TheQuiz.pdb
+C:\Users\Ian Sui\source\repos\C#\TheQuiz\TheQuiz\obj\Debug\TheQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Ian Sui\source\repos\C#\TheQuiz\TheQuiz\obj\Debug\TheQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Ian Sui\source\repos\C#\TheQuiz\TheQuiz\obj\Debug\TheQuiz.exe
+C:\Users\Ian Sui\source\repos\C#\TheQuiz\TheQuiz\obj\Debug\TheQuiz.pdb

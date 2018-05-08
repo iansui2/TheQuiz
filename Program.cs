@@ -24,19 +24,19 @@ namespace TheQuiz.Logic
             Quiz selectFilipino = new Filipino();
             Quiz selectEnglish = new English();
 
-            if (response == "A")
+            if (response.ToUpper() == "A")
             {
                 selectMath.Quizzes();
             }
-            else if (response == "B")
+            else if (response.ToUpper() == "B")
             {
                 selectScience.Quizzes();
             }
-            else if (response == "C")
+            else if (response.ToUpper() == "C")
             {
                 selectFilipino.Quizzes();
             }
-            else if (response == "D")
+            else if (response.ToUpper() == "D")
             {
                 selectEnglish.Quizzes();
             }
